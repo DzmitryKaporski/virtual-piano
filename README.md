@@ -3,7 +3,7 @@ The application - a virtual piano.
 
 1. Task: https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/virtual-piano
 2. Screenshot:  ![ ](https://clck.ru/Tpr4o)
-3. Deploy: https://rolling-scopes-school.github.io/dzmitrykaporski-JSFE2021Q1/virtual-piano/
+3. Deploy: [https://rolling-scopes-school.github.io/dzmitrykaporski-JSFE2021Q1/virtual-piano/](https://dzmitrykaporski.github.io/virtual-piano/virtual-piano/index.html)
 4. Done 2021-03-14  / Deadline: 2021-03-23 02:59
 5. Score: 50 / 49
 6. Критерии оценки:
