@@ -17,7 +17,7 @@ body {
   min-height: 100vh;
   font-family: "Open Sans", Arial, Helvetica, sans-serif;
   background: url(https://images.wallpaperscraft.ru/image/single/klavishi_pianino_chernyj_161829_1280x720.jpg);
-  overflow-x: hidden;
+  background-size: cover;
 }
 
 .header {
